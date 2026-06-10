@@ -15,19 +15,8 @@
 
 ## 📸 Screenshots
 
-> *(Add your screenshots in a `/screenshots` folder in the repo root and update the paths below)*
-
-### 🏠 Home Page
-![Home Page](Demo/Demo1.jpg)
-
-### ⚡ Pipeline Running
-![Pipeline Running](Demo/Demo4.jpg)
-
-### 📄 Research Report Output
-![Research Report](Demo/Demo5.jpg)
-
-### 🧐 Critic Feedback
-![Critic Feedback](Demo/Demo6.jpg)
+### 🏠 Home Page & Report Output
+![ResearchMind App](screenshots/Demo1.jpg)
 
 ---
 
