@@ -6,19 +6,11 @@
 
 ## 🌐 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-
 > 🔗 **Deployed Link:** [https://your-app-url.streamlit.app](https://multi-agent-ai-system-cpgpzelnnlslk9scwvgcps.streamlit.app/)
 > 
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page & Report Output
-![ResearchMind App](screenshots/Demo1.jpg)
-
----
 
 ## 🧠 How It Works
 
